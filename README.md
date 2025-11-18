@@ -1,7 +1,4 @@
 # Psychoacoustic Metrics for Automotive Sound Quality
-*A Tutorial with Synthetic Case Studies and AI/ML Workflows*
-
-[![DOI](https://zenodo.org/badge/DOI/10.xxxx/zenodo.xxxxxxx.svg)](https://doi.org/10.xxxx/zenodo.xxxxxxx)
 
 ## Overview
 This repository accompanies the paper:
@@ -10,8 +7,8 @@ This repository accompanies the paper:
 It provides MATLAB and Python implementations of six psychoacoustic metrics, synthetic case study signals, and example workflows for ML.
 
 ## Features
-- Loudness (Zwicker / BS.1770 proxy)
-- Sharpness (spectral centroid–based proxy)
+- Loudness (Zwicker / BS.1770)
+- Sharpness (spectral centroid–based)
 - Roughness (15–300 Hz modulation)
 - Fluctuation Strength (<20 Hz modulation)
 - Tonality (PSD peak prominence)
@@ -71,7 +68,6 @@ Please cite the accompanying paper (update once available):
 }
 ```
 
-Zenodo DOI: 10.xxxx/zenodo.xxxxxxx (replace after Zenodo publish).
 
 ## License
 MIT — see `LICENSE`.
