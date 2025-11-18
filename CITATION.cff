@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper."
+title: "Psychoacoustic Metrics for Automotive Sound Quality: A Tutorial with Synthetic Case Studies and AI/ML Workflows"
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    affiliation: "Your Affiliation"
+date-released: "2025-01-01"
+repository-code: "https://github.com/yourusername/psychoacoustics-tutorial"
+license: "MIT"
+doi: "10.xxxx/zenodo.xxxxxxx"
+keywords:
+  - psychoacoustic metrics
+  - automotive acoustics
+  - NVH
+  - sound quality
+  - machine learning

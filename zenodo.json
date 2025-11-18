@@ -1,0 +1,22 @@
+{
+  "title": "Psychoacoustic Metrics for Automotive Sound Quality: A Tutorial with Synthetic Case Studies and AI/ML Workflows",
+  "upload_type": "software",
+  "description": "MATLAB and Python code accompanying the tutorial paper on psychoacoustic metrics for automotive sound quality, including synthetic case studies and AI/ML workflows.",
+  "creators": [
+    {
+      "name": "Your Name",
+      "affiliation": "Your Affiliation"
+    }
+  ],
+  "keywords": [
+    "psychoacoustic metrics",
+    "automotive acoustics",
+    "NVH",
+    "sound quality",
+    "machine learning",
+    "electric vehicles"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "notes": "Replace placeholders (author, DOI). After linking GitHub to Zenodo, create a GitHub release to mint a DOI."
+}
